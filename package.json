@@ -29,8 +29,9 @@
     "dist"
   ],
   "keywords": [
-    "nerd",
-    "fonts"
+    "fonts",
+    "nerdfonts",
+    "nerd-fonts"
   ],
   "repository": {
     "type": "git",
