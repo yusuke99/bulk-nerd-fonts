@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/yusuke99/bulk-nerd-fonts/actions?query=workflow%3ACI"><img src="https://img.shields.io/github/actions/workflow/status/yusuke99/bulk-nerd-fonts/ci.yml" alt="CI status"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/yusuke99/bulk-nerd-fonts" alt="License"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/npm/l/bulk-nerd-fonts" alt="License"></a>
   <a href="https://www.npmjs.com/package/bulk-nerd-fonts"><img src="https://img.shields.io/npm/v/bulk-nerd-fonts" alt="npm version"></a>
 </div>
 
