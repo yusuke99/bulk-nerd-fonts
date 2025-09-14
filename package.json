@@ -1,0 +1,40 @@
+{
+  "name": "bulk-nerd-fonts",
+  "description": "Bulk install nerd fonts via brew in a single command",
+  "version": "0.0.1",
+  "author": "Yusuke <https://github.com/yusuke99>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsdown",
+    "dev": "NODE_ENV=dev tsx ./src/index.ts",
+    "lint": "biome check --write",
+    "test": "vitest run --silent",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.2.4",
+    "@types/node": "^24.3.1",
+    "lefthook": "^1.12.4",
+    "tsdown": "^0.15.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "type": "module",
+  "bin": {
+    "bulk-nerd-fonts": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "dist"
+  ],
+  "keywords": [
+    "nerd",
+    "fonts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yusuke99/bulk-nerd-fonts"
+  },
+  "homepage": "https://github.com/yusuke99/bulk-nerd-fonts#readme"
+}
