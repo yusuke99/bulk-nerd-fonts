@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es2022",
+    "moduleResolution": "bundler",
+    "noErrorTruncation": true
+  },
+  "include": ["./src/*.ts"],
+  "exclude": ["./**/*.test.ts"]
+}
