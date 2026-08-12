@@ -1,3 +1,5 @@
+
+
 <div id="top"></div>
 <br />
 
@@ -20,7 +22,7 @@
 
 <h2 align="center">What is <code>bulk-nerd-fonts</code>?</h2>
 
-`bulk-nerd-fonts` is a CLI tool for setting up a fresh nerd fonts quickly. Bulk install nerd fonts via brew in a single command.
+`bulk-nerd-fonts` is a CLI tool for quickly setting up Nerd Fonts. It automatically discovers and installs all available fonts via Homebrew in a single command.
 
 - ☝️ Just run a single command
 - 🏄‍♂️ No manual installations
